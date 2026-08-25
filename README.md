@@ -34,4 +34,20 @@
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahyadri551/Github_Codes/tree/master/3718-smallest-missing-multiple-of-k) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sahyadri551/Github_Codes/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sahyadri551/Github_Codes/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sahyadri551/Github_Codes/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sahyadri551/Github_Codes/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
