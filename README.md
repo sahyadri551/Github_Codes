@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sahyadri551/Github_Codes/tree/master/0100-same-tree) |
+## String
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahyadri551/Github_Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahyadri551/Github_Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
