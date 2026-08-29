@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/sahyadri551/Github_Codes/tree/master/1872-stone-game-viii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahyadri551/Github_Codes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sahyadri551/Github_Codes/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sahyadri551/Github_Codes/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahyadri551/Github_Codes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sahyadri551/Github_Codes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
