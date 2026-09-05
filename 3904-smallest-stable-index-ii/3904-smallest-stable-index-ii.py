@@ -1,0 +1,14 @@
+class Solution:
+    def firstStableIndex(self, nums: list[int], k: int) -> int:
+        n=len(nums)
+        prefMax = [nums[0]]
+        for i in range(1, n):
+            prefMax.append(max(prefMax[i-1], nums[i]))
+        suffMin = [0] * n
+        suffMin[-1] = nums[-1]
+        for i in range(n - 2, -1, -1):
+            suffMin[i] = min(suffMin[i+1], nums[i])
+        for i in range(n):
+            if prefMax[i] - suffMin[i] <= k:
+                return i
+        return -1
