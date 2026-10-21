@@ -1,14 +1,14 @@
+from itertools import pairwise
+
 class Solution:
     def minOperations(self, s: str) -> int:
-        if s == "".join(sorted(s)):
+        if all(x <= y for x, y in pairwise(s)):
             return 0
-        n = len(s)
-        if n == 2:
+        if len(s) == 2:
             return -1
-        a, b = min(s), max(s)
-        if s[0] == a or s[-1] == b:
+        mn, mx = min(s), max(s)
+        if s[0] == mn or s[-1] == mx:
             return 1
-        for i in range(1, n - 1):
-            if s[i] == a or s[i] == b:
-                return 2
+        if any(c in (mn, mx) for c in s[1:-1]):
+            return 2
         return 3
